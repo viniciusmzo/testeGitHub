@@ -14,6 +14,7 @@ namespace testeGit
 
             Console.WriteLine("Teste commit");
 
+            Console.WriteLine("Teste commit github");
             Console.ReadKey();
         }
     }
