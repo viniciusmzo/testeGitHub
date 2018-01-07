@@ -12,6 +12,8 @@ namespace testeGit
         {
             Console.WriteLine("Olá mundo");
 
+            Console.WriteLine("Teste commit");
+
             Console.ReadKey();
         }
     }
